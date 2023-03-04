@@ -1,8 +1,12 @@
 import "./App.css";
-import Heading from "./components/Heading";
+import Booking from "./components/Booking";
 
 function App() {
-  return <Heading />;
+  return (
+    <div className="App">
+      <Booking />
+    </div>
+  );
 }
 
 export default App;
