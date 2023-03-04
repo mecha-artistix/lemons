@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New Branch
+          Master Branch change
         </a>
       </header>
     </div>
