@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          1st git push
+          New Branch
         </a>
       </header>
     </div>
